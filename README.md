@@ -22,7 +22,7 @@ Welcome to **CatPhotoGallery** – a simple, fun, and purr-fectly adorable proje
 
 ## 🌐 Live Demo
 
-🔗 Check out the live version: [Cat Photo Gallery on GitHub Pages](https://raheem2010.github.io/CatPhotoGallery/)
+🔗 Check out the live version: [Cat Photo Gallery on GitHub Pages](https://Raheem2010.github.io/CatPhotoGallery/)
 
 ---
 
